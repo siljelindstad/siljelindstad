@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @siljelindstad
 - 👀 I’m interested in Cognitive Science, AI and Data Analysis
-- 🌱 I'm working in Geospatial Governance and Solutions at Equinor
+- 🌱 I am a Graduate in the Geospatial Governance and Solutions Department at Equinor
 - 📫 How to reach me: Slind@equinor.com
